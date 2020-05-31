@@ -1,5 +1,5 @@
 # ck62-keyboard
-This repository contains scripts for ck62 keyboard if using Windows or MacOs environment
+If you is like me: Braziian guy and using a 66% keyboard from Motospeed and did not find a correct accentuation {~,',",`} this repository contains scripts for ck62 keyboard if using Windows or MacOs environment
 
 # For Windows Environment
 You need to install AHK (https://www.autohotkey.com/) and then use ck62-windows.ahk. With AHK binary installed, you only need to compile this .ahk generating .exe file. So put this binary to initialize with your Windows. 
